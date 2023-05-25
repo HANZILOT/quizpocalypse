@@ -1,0 +1,13 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    margin-left: 10px;
+}
+
+.title p {
+    margin: 0;
+    line-height: 20px;
+    word-break: break-word;
+}
